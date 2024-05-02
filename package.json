@@ -1,0 +1,14 @@
+{
+  "name": "wad-prac3a",
+  "version": "1.0.0",
+  "description": "wad3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mane",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
